@@ -17,7 +17,7 @@ Sometimes, we receive questions about how to update, simplify, or extend a given
 
 ## Installation
 ```bash
-git clone https://github.com/your-repo/ecs-start-stop.git
+git clone https://github.com/atokai/Customized_ECS_Start-Stop.git
 cd ecs-start-stop
 pip install -r requirements.txt
 ```
